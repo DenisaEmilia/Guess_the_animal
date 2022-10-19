@@ -3,67 +3,11 @@ Time to play! The program prompts the user to think of an animal and tries to gu
 ![6ED9696C-D756-4AA3-8100-E60CD9368D59](https://user-images.githubusercontent.com/73117226/196727764-b09265f1-268c-45a0-8a4a-a078f169424f.jpeg)
 
 
+
+
 Examples
 The greater-than symbol followed by a space > represents the user input. Note that it's not part of the input.
 
-Example 1
 
-Good morning!
-
-I want to learn about animals.
-Which animal do you like most?
-> cat
-Wonderful!
-I've learned so much about animals!
-Let's play a game!
-You think of an animal, and I guess it.
-Press enter when you're ready.
-> Is it a cat?
-> No
-I give up. What animal do you have in mind?
-> a dog
-Enter a statement which can help me distinguish a cat from a dog.
-> It can climb trees.
-Is that fact correct for a dog?
-> No
-I remember the following facts about animals:
-- The cat can climb trees.
-- The dog can't climb trees.
-
-I've learned so much about animals!
-Would you like to play again?
-> No
-
-Have a nice day!
-Example 2
-
-If a knowledge base already exists, the program doesn't ask the user about the favorite animal: it offers to play a game instead.
-
-Hi Night Owl!
-
-I know a lot about animals.
-Let's play a game!
-You think of an animal, and I guess it.
-Press enter when you're ready.
->
-Can it climb trees?
-> Sure!
-Come on, yes or no?
-> Yeah
-Is it a cat?
-> Nope
-I give up. What animal do you have in mind?
-> Lynx
-Enter a statement that can help me distinguish a cat from a lynx.
-> It has tassels on its ears
-Is the fact correct for a lynx?
-> yea
-I remember the following facts about animals:
-- The cat hasn't tassels on its ears.
-- The lynx has tassels on its ears.
-
-I've learned so much about animals!
-Would you like to play again?
-> No
-
-Good night!
+![image](https://user-images.githubusercontent.com/73117226/196728575-5d5f8e53-0918-46f4-9e31-7fb71c27ff32.png)
+![image](https://user-images.githubusercontent.com/73117226/196728791-c24c7b8d-6f9d-473e-9dbf-ddc9a59318b9.png)
